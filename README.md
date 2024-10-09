@@ -1,0 +1,1 @@
+A estrutura DateTime no C# é uma ferramenta poderosa para trabalhar com datas e horas. Ela permite representar instantes no tempo, realizar cálculos com datas e horas, e formatar essas informações de maneira flexível. 
